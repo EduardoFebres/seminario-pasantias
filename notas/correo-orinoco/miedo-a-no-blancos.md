@@ -1,0 +1,1 @@
+El cuestionamiento al federalismo norteamericano --que ya había quedado patente tras la derrota de la I República en el _Manifiesto de Cartagena_ pp, y sobre la que insiste en el _Discurso de Angostura_ pp-- está directamente fundado en los temores sobre rebeliones y acceso al poder de las poblaciones no-blancas

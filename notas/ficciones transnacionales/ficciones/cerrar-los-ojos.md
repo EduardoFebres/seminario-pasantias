@@ -1,5 +1,16 @@
 20201215112509
 
+
+### Hardt, Michael., y Antonio Negri. _Empire_. 10/18 : Exils, 2004. /z-wcorg/.
+
+
+> Sin embargo, aunque la soberanía moderna emanó de Europa, nació y se desarrolló en gran medida por la relación de Europa con su exterior, y particularmente mediante su proyecto colonial y la resistencia de los colonizados. La soberanía moderna emergió, entonces, como el concepto de la reacción europea y la dominación europea tanto dentro como afuera de sus fronteras. Son dos caras coextensivas y complementarias de un desarrollo: gobierno dentro de Europa y gobierno europeo sobre el mundo [[20201215112516]].
+
+
+
+
+### Castro-Gómez, Santiago. _Crítica de la razón latinoamericana_. Puvill, 1996. /z-wcorg/.
+
 > Utilizando una expresión de Antonio Caso, Zea piensa  
 > que el bovarismo es la lógica que atraviesa por entero la historia latinoamericana desde  
 > el siglo XVI hasta comienzos del siglo XX. Al igual que Madame Bovary, la heroína  

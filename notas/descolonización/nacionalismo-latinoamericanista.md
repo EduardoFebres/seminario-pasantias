@@ -1,4 +1,4 @@
-# _Counterfeit Politics_.
+### _Counterfeit Politics_.
 
 > **Derrida goes on to emphasize what he calls a “modern crypto-**  
 > **politology” or a “political cryptology” that would counter this notion of**  
@@ -35,7 +35,7 @@ Pareciera que la potencia del colombismo ha sido precisamente su resistencia a s
 > 
 > 10
 
-# Castro-Gómez, Santiago. _Crítica de la razón latinoamericana_. Puvill, 1996. /z-wcorg/.
+### Castro-Gómez, Santiago. _Crítica de la razón latinoamericana_. Puvill, 1996. /z-wcorg/.
 
 Durante el siglo XIX y hasta comienzos del  
 XX, la identidad se produce mediante tecnologías educativas como la disciplina de la  
@@ -47,3 +47,20 @@ rituales ahistóricos, que representan la “raíz” de la nacionalidad.
 
 59
 
+
+### Beasley-Murray, Jon. “Introduction: Towards a New Latin Americanism”. _Journal of Latin American Cultural Studies_, vol. 11, no 3, diciembre de 2002, pp. 261–64. 
+
+**The tropes of**  
+**solidarity and prosopopeic speaking ‘for’ the oppressed** that defined Latin  
+Americanism’s oppositional possibilities (and that reached both their height and  
+their nadir during the Central American revolutions) no longer seem to work, or  
+to work in the same ways, when it seems at best a truism that VISA (and Coke,  
+and Microsoft) are indeed ‘everywhere you want to be’, and thus when there are  
+few or no territorially defined sites of resistance. If one version of the old Latin  
+Americanism defined the continent as a ‘barbarie’ that had to be civilized, and  
+another version saw it as a space of difference seeking autonomy by confronting  
+(neo)imperialism, Néstor Garcı́a Canclini’s essay shows that the new Latin  
+Americanism must reckon with the fact that these former differences and  
+distinctions no longer hold, or at least not in any clear-cut manner.
+
+262

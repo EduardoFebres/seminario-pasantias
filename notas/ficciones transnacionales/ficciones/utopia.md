@@ -1,4 +1,4 @@
-Castro-Gómez, Santiago. _Crítica de la razón latinoamericana_. Puvill, 1996. /z-wcorg/.
+# Castro-Gómez, Santiago. _Crítica de la razón latinoamericana_. Puvill, 1996. /z-wcorg/.
 
 > Ortega y Gasset vio en su momento que las utopías políticas son uno de los rasgos  
 > típicos del racionalismo moderno, con su intento de ver el mundo sub specie aeternitatis,  
@@ -15,3 +15,7 @@ Castro-Gómez, Santiago. _Crítica de la razón latinoamericana_. Puvill, 1996. 
 > crático.
 > 
 > 43
+
+
+
+La crítica del pensamiento utópico latinoamericano, y el mismo pensamiento utópico latinoamericano, han dejado de lado el hecho muy significativo de que en América el género sufre una mutación cotonstitutiva, que luego se vuelve programática, y ya estaríamos hablando de otro género narrativo. Es un oxímoron decir que Colombia es una utopía. Sería como decir que Utopía es una Colombia. La cuestión se vuelve particularmente significativa sin pensamos que la utopía está genealógicamente emparentada con Vespucci, mientras los colombistas emparentan genealógicamente a la Colombia con Colón. Pensemos que ahí también se cifra una contradicción entre un librecambio del lenguaje, una "república aérea", y una ética de la verdad. En ese sentido, el concepto de colombismo que da Andrés Eloy Blanco es coherente. Hay una voluntad antiespeculativa sobre el lenguaje y la cultura --en tanto patrón de organización de los valores de uso
