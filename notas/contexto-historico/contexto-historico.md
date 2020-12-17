@@ -1,8 +1,8 @@
 20201215112423
 
-# Zea
+### Castro-Gómez, Santiago. _Crítica de la razón latinoamericana_. Puvill, 1996. /z-wcorg/.
 
-Castro-Gómez, Santiago. _Crítica de la razón latinoamericana_. Puvill, 1996. /z-wcorg/.
+Zea:
 
 1\. Colonización niega el “mundo precolombino”
 
@@ -71,3 +71,9 @@ Y el colombismo sería una transción (dorada) entre el proyecto colonial-ilustr
 > **una verdadera humanización** de toda la humanidad.
 > 
 > 208-209
+
+### _Infrapolitical Passages: on Decontainment and Narcoaccumulation_.
+
+At this point in his argument, Moreiras endorses Paul Bové’s Gramscian formulation of the post-Cold War period as a time of interregnum: “Bové’s interregnum refers to ‘that place and time \[the present\] when there is as yet no rule, when there are ordering forces but they have not yet summoned their institutional rule into full \[167\] view’ (‘‘Afterword’’ 385)” (Moreiras 90).
+
+168

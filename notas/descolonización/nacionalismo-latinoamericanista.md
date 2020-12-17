@@ -64,3 +64,17 @@ Americanism must reckon with the fact that these former differences and
 distinctions no longer hold, or at least not in any clear-cut manner.
 
 262
+
+### Moreiras, Alberto. _Línea de sombra : el no sujeto de lo político_. Palinodia, 2006. /z-wcorg/.
+
+> Quizás la descolonización, en la medida en que se hace infinita en su demanda radical de reapropiación de un legado perdido, en la medida por lo tanto en que es un pensar del legado más que un pensar de la des-legación, no sea realmente descolonización sino más bien una curiosa forma de recolonización apotropaica, que sólo descolonializa para mejor recolonializar, siguiendo el espíritu de los tiempos.
+> 
+> 37
+> 
+> De hecho la descolonización masiva, apoyada siempre en una ideología de desarrollo nacional postcolonial, era ya una respuesta política a las reivindicaciones radicales del proletariado sostenidas por los partidos marxistas de masa. Se creía que el desarrollo nacional podría finalizar la explotación en cuanto tal, o minimizarla hasta hacerla políticamente viable. La des- colonización, en su forma radical o infinita, sin embar- go, iba más allá de presupuestos desarrollistas y asumía la posibilidad de un rescate del legado precolonial en la deslegación misma.
+> 
+> 36
+> 
+> Si el sujeto nacio- nal-popular fue lo que Louis Althusser pudo llamar un ejemplo de conciencia melodramática (“conciencia falsa de una situación real”), el sujeto civilizacional es a for- tiori conciencia melodramática y encubrimiento de si- tuaciones reales 13 .
+> 
+> 71

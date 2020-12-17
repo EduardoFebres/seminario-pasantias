@@ -19,3 +19,16 @@ El conflicto que detecta Rodríguez en 1828 es la pérdida un punto ciego sobre 
 > (186)
 
 La hipótesis sería que en la crítica de Rodríguez, la carencia de nexo efectivo de la vida ideológica, la impropiedad de las ideas, no se mide frente a una relación productiva que contradice sus principios: se mide frente a la indefinición de una relación productiva en absoluto, en tanto no hay definido tampoco un sistema político. Iniciado el proceso de abolición de la esclavitud por el Ejército Libertador (Crespo R., 99-100) en Bolivia no había como en el Brasil de la segunda mitad del siglo XIX una "relación productiva de base, asegurada por la fuerza": la base era la relación de intercambio internacional, asegurada, no por la fuerza, sino por el "principio de desorden" del capitalismo: lo que Rodríguez llama, en 1842,_ tráfic
+
+
+### Acosta, Santiago. “Posthegemonía y postsubalternidad: Desencuentros del latinoamericanismo frente a la ‘marea rosada’”. _Cuadernos de Literatura_, vol. 20, no 39, diciembre de 2015, p. 28. _DOI.org (Crossref)_, doi:[10.11144/Javeriana.cl20-39.ppdl](https://doi.org/10.11144/Javeriana.cl20-39.ppdl).
+
+> naciones. Aunque, como sabemos, Negri y Hardt prefieren en todo momento  
+> trascender la idea territorial, biológica y lingüística de la nación 4 , admiten: “In  
+> cases of diasporic populations, too, the nation seems at times to be the only con-  
+> cept available under which to imagine the community of the subaltern group—as,  
+> for example, the Aztlán is imagined as the geographical homeland of ‘la Raza’ ”  
+> ( 107 ). De acuerdo con estas ideas sí existiría —incluso tras la conformación del  
+> Imperio como nuevo orden mundial— la posibilidad de pensar la nación como  
+> un espacio de lucha: “the nation appears as progressive insofar as it serves as aline of defense against the domination of more powerful nations and external  
+> economic, political, and ideological forces” ( 106 ).

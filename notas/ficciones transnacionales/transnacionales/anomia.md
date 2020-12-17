@@ -47,3 +47,42 @@ About la disputa por la incorporación/asimilación/gobernabilidad de los pardos
 > 113
 
 Aquí tiene los elementos para rebatir su concepto de dialéctica colonial a partir de Boaventura
+
+
+### Infrapolitical Passages
+
+>  In the process, both war and peace move together beyond the treaties and mediations of modern inter-state sovereignty, and pass over increasingly into everyday pre-modern forms of organized property theft, maritime and non-maritime forms of piracy, kidnapping and ransom, and resource value extraction.
+> 156
+
+> It should be clear at all times, however, that violence in its contemporary military and paramilitary forms is not the sole purview of the post-Cold War neoliberal world and the emergent market-state duopoly, for, to an extent, there is nothing new here. Paramilitary or extra-legal force is, and has only ever been, the social manifestation of a structural hetero-genesis in the modern sovereign relation between nomos and anomie, which underlies and conditions all relations between means, ends and the conditions of the political. Therein lies a fundamental grey zone in the relation between nomos and anomie, which uncovers the thorny and unresolvable relation between power, violence and force.
+> 
+> 174
+
+
+> Similarly, in Specters of Marx Jacques Derrida referred to the end of the Cold War as the inauguration of a novel form of war (1993, 62), which he characterized as the definitive demise of an “outdated opposition between civil war and international war” (98).
+> 
+> 173
+
+### Moreiras, Alberto. _Línea de sombra : el no sujeto de lo político_. Palinodia, 2006. /z-wcorg/.
+
+> La guerra total es el fin de lo político. Toda noción de un orden de lo político queda ahora más allá de la línea. La guerra total es la amenaza absoluta.
+> 
+> Derrida dice que todos los esfuerzos occidentales o norteamericanos para identificar estados terroristas o estados piratas son “racionalizaciones destinadas a negar más que la ansiedad absoluta, el pánico o el terror ante el hecho de que la amenaza absoluta no viene ya ni des- cansa sobre el control de estado alguno, de cualquier forma de lo estatal. Era necesario disimular, mediante esta proyección identificatoria, era necesario sobre todo disimular ante uno mismo el hecho de que el poder nuclear o las armas de destrucción masiva son virtual- mente producidas y accesibles en lugares que ya no de- penden de estado alguno. Ni siquiera estados piratas” (Voyous 150).
+> 
+> 252
+
+
+> Si el estado de excepción se hace la regla, la teoría schmittiana según la cual la deci- sión excepcional tiene como función primaria sostener la regla al suspender temporalmente su aplicación se hunde. La indecidibilidad de regla y excepción hace que la regla y la excepción se devoren a sí mismas. Lo que queda es una zona anómica “donde funciona una vio- lencia sin ropaje jurídico de ninguna clase” (76-77).
+> 
+> 258
+
+
+> El enemigo justo es el ene- migo intranómico, el enemigo que no quiere deshacer el orden nómico, sino que más bien se limita a cuestio- nar determinaciones nómicas internas desde el punto de vista del nomos mismo. Por ejemplo, después del Tra- tado de Utrecht, que establece las consecuencias de la Guerra de Sucesión Española a principio del siglo die- ciocho con resultados bastante dramáticos para el poder español, España intentó reestablecer sus reivindicacio- nes sobre territorio italiano e invadió Cerdeña y Sicilia. Inmediatamente los vencedores de Utrecht organizaron la llamada Cuádruple Alianza contra España. Como dice Henry Kamen, “el conflicto, que llegó a su término el año siguiente \[1719\], fue una falsa guerra sin mayor propósito que el de demostrarle a España que podía operar como poder militar sólo con el permiso de los franceses y los británicos” (455). Los franceses y los bri- tánicos, con sus aliados, reafirmaron su posición de do-\[248\] minio nómico y pusieron a España en su sitio. Pero Es- paña fue considerada por ellos enemigo nómico, señora respetable si bien un poco decaída y protestona, al tiempo que España no podía sino sentir que no era lo suficien- temente poderosa para modificar el equilibrio de poder europeo al servicio de sus propios intereses. ¿Y el enemigo injusto? ¿Es el enemigo injusto, por oposición al enemigo justo, cuya definición queda ente- ramente contenida al nivel del orden nómico, un señor respetable si bien un poco decaído y protestón, de todo principio de orden y orientación? Schmitt dice que el concepto kantiano de enemigo injusto podría de hecho ser ya “el presentimiento de un nuevo nomos de la tie- rra” (169), es decir, de un nuevo orden de lo político. Ahora bien, en su definición Kant prefigura ni más ni menos que la llegada de terroristas nihilistas, cuya in- tención no puede ser producir una configuración nómi- ca alternativa sino más bien, precisamente, el retorno a un imposible estado de naturaleza, un caos asesino, des- orden y desorientación para todos. Si esto es así, el ene- migo injusto kantiano es la intuición del fin de todo posible orden de lo político, y por lo tanto no el presen- timiento de ningún orden nuevo ni emergente.
+> 
+> 249
+
+> 
+> La idea del nomos inscribe la noción de amistad. Dentro de un nomos dado, son todavía amigos los que rompen el orden de la amistad y luchan en guerras dis- criminatorias, en tanto que las guerras no-discriminato- rias (es decir, en la definición de Schmitt, las guerras que no siguen las reglas de la guerra entre contendien- tes intranómicos) están por definición situadas “más allá de la línea”, esto es, en el límite expansivo del orden nómico, fuera del orden nómico (Nomos 93-94).
+> 
+> 30
+
